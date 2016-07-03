@@ -1,0 +1,31 @@
+- Introduction
+	- [Introduction](/docs/{{version}}/installation)
+	- [Installation](/docs/{{version}}/installation)			
+- Charges
+	- [Creating charges](/docs/{{version}}/charge)
+	- [Paying a charge](/docs/{{version}}/charge_payment)
+	- [Detailing charges](/docs/{{version}}/charge_detail)
+	- [Updating informations](/docs/{{version}}/charge_update)
+	- [Resending billet](/docs/{{version}}/resend_billet)
+	- [Adding information to charge's history](/docs/{{version}}/charge_create_history)
+- Carnets
+	- [Creating carnets](/docs/{{version}}/carnet)
+	- [Detailing carnets](/docs/{{version}}/carnet_detail)
+	- [Updating informations](/docs/{{version}}/carnet_update)
+	- [Resending the carnet](/docs/{{version}}/carnet_resend)
+	- [Resending carnet parcel](/docs/{{version}}/carnet_resend_parcel)
+	- [Adding information to carnet's history](/docs/{{version}}/carnet_create_history)
+	- [Canceling the carnet](/docs/{{version}}/carnet_cancel)
+	- [Canceling carnet parcel](/docs/{{version}}/carnet_cancel_parcel)
+- Subscriptions
+	- [Creating subscriptions](/docs/{{version}}/subscription)
+	- [Setting the payment method](/docs/{{version}}/subscription_payment)
+	- [Detailing subscriptions](/docs/{{version}}/subscription_detail)
+	- [Updating informations](/docs/{{version}}/subscription_update)
+	- [Listing plans](/docs/{{version}}/plan_list)
+- Marketplace
+	- [Creating a marketplace](/docs/{{version}}/marketplace)
+- Notifications
+	- [Getting notifications](/docs/{{version}}/notification)
+- Payments
+	- [Getting the payment data](/docs/{{version}}/payment_data)
