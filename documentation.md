@@ -1,6 +1,6 @@
 - Introduction
-	- [Introduction](/docs/{{version}}/installation)
-	- [Installation](/docs/{{version}}/installation)			
+	- [Intro](/docs/{{version}}/installation)
+	- [Installation](/docs/{{version}}/installation#installation)
 - Charges
 	- [Creating charges](/docs/{{version}}/charge)
 	- [Paying a charge](/docs/{{version}}/charge_payment)
